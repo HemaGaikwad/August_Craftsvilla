@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+    </line>
+    <line>
+      <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+    </line>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="170930" started-at="2018-09-08T03:31:00Z" finished-at="2018-09-08T03:33:51Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="170930" started-at="2018-09-08T03:31:00Z" finished-at="2018-09-08T03:33:51Z">
+      <class name="com.craftsvilla.testscripts.SignUpScripts">
+        <test-method status="PASS" signature="openApp(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.SignUpScripts@34c4973]" name="openApp" is-config="true" duration-ms="10124" started-at="2018-09-08T03:31:00Z" finished-at="2018-09-08T03:31:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="signUp()[pri:0, instance:com.craftsvilla.testscripts.SignUpScripts@34c4973]" name="signUp" duration-ms="159081" started-at="2018-09-08T03:31:11Z" finished-at="2018-09-08T03:33:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //span[text()='Sign In']]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: emailId]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: continueBtn]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: set-password]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> id: userRegister]found]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]found]]>
+            </line>
+            <line>
+              <![CDATA[Mousehovered on [[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='#' and @data-toggle='dropdown']]]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on XP (b352ca942866d4f15353cd8491a2c152)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.craftsvilla.testscripts.SignUpScripts@34c4973]" name="closeApp" is-config="true" duration-ms="1666" started-at="2018-09-08T03:33:50Z" finished-at="2018-09-08T03:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.craftsvilla.testscripts.SignUpScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>
