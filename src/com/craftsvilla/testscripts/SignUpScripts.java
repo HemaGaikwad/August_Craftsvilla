@@ -8,6 +8,8 @@ import com.craftsvilla.pompages.SignInPage;
 import com.craftsvilla.utilities.BaseTest;
 import com.craftsvilla.utilities.ReadExcel;
 
+//This class contains all test scripts pertaining to SignUp module.
+
 public class SignUpScripts extends BaseTest
 {
 	HomePage homepage = null;
